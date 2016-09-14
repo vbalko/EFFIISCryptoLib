@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="ejbModule"/>
+	<classpathentry kind="con" path="sap.jee5">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.ejb"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.sap.ext.libs.xpi.classpathContainer/adapter"/>
+	<classpathentry kind="lib" path="C:/nwds/nwds-extsoa-7.3-EHP1-SP17-PAT0011-win32/eclipse/plugins/com.sap.security_2.0.0.160809070704.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="WSS4J_209/axis.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/bcprov-jdk15on-1.54.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/commons-codec-1.6.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/commons-compress-1.9.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/commons-discovery-0.2.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/jaxrpc.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/junit-4.4.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/log4j.properties"/>
+	<classpathentry kind="var" path="WSS4J_209/opensaml-2.6.1.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/saaj.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/saxon-9.1.0.8.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/serializer-2.7.2.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/slf4j-api-1.7.14.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/slf4j-log4j12-1.7.14.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/wsdl4j-1.6.3.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-bindings-2.0.9.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-policy-2.0.9.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-ws-security-common-2.0.9.jar" sourcepath="/WSS4j_209_source"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-ws-security-dom-2.0.9.jar" sourcepath="/WSS4j_209_source"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-ws-security-policy-stax-2.0.9.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/wss4j-ws-security-stax-2.0.9.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/xalan-2.7.2.jar"/>
+	<classpathentry kind="var" path="WSS4J_209/xmlsec-2.0.7.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="SOAPAdapModuleEJB_cryptoEAR">
+        <wb-resource deploy-path="/" source-path="/EarContent"/>
+        <dependent-module archiveName="SOAPAdapModuleEJB_crypto.jar" deploy-path="/" handle="module:/resource/SOAPAdapModuleEJB_crypto/SOAPAdapModuleEJB_crypto">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>

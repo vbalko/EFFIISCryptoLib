@@ -1,0 +1,6 @@
+#Wed Sep 07 14:20:35 CEST 2016
+eclipse.preferences.version=1
+jlin.codeclassification.location=cfg/codeClassification.xml
+jlin.priority.threshold=3
+jlin.priothreshold.enabled=false
+jlin.variant=DEFAULT
