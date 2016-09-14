@@ -115,7 +115,7 @@ public class CryptoLib implements Module{
 	final private String ksUserParamName = "ksUser";
 	final private String ksPwdParamName = "pwd";
 	
-// promenne parametru na kanalu 55222
+// promenne parametru na kanalu 55222 aa
     private String ksView = "";
     private String ksUser = "";
     private String ksPwd = "";	
